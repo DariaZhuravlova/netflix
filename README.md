@@ -1,4 +1,4 @@
-# React Netflix Course
+# React Netflix
 
 A simple React app for browsing and managing movies. Users can view movie cards, watch previews, read reviews, and mark favorites. Built with React, React Router, and Tailwind CSS.  
 
