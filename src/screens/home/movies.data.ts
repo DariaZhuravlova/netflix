@@ -1,0 +1,88 @@
+import type {IMovie} from "./movie.interface";
+
+export const MOVIES: IMovie[] = [
+    {
+        id: 1,
+        name: "Narcos",
+        image: "/narcos.jpg",
+        rating: 8.8,
+        trailerYoutubeId: "xl8zdCY-abw",
+    },
+    {
+        id: 2,
+        name: "Final Space",
+        image: "/final.jpg",
+        rating: 7.8,
+        trailerYoutubeId: "4EHbt_kSkG8",
+    },
+    {
+        id: 3,
+        name: "Breaking Bad",
+        image: "/breakingbad.jpg",
+        rating: 9.5,
+        trailerYoutubeId: "HhesaQXLuRY",
+    },
+    {
+        id: 4,
+        name: "Stranger Things",
+        image: "/strangerthings.jpg",
+        rating: 8.7,
+        trailerYoutubeId: "b9EkMc79ZSU",
+    },
+    {
+        id: 5,
+        name: "The Witcher",
+        image: "/witcher.jpg",
+        rating: 8.2,
+        trailerYoutubeId: "ndl1W4ltcmg",
+    },
+    {
+        id: 6,
+        name: "Money Heist",
+        image: "/moneyheist.jpg",
+        rating: 8.3,
+        trailerYoutubeId: "p_PJbmrX4uk",
+    },
+    {
+        id: 7,
+        name: "Dark",
+        image: "/dark.jpg",
+        rating: 8.8,
+        trailerYoutubeId: "rrwycJ08PSA",
+    },
+    {
+        id: 8,
+        name: "Peaky Blinders",
+        image: "/peaky.jpg",
+        rating: 8.8,
+        trailerYoutubeId: "oVzVdvGIC7U",
+    },
+    {
+        id: 9,
+        name: "The Boys",
+        image: "/theboys.jpg",
+        rating: 8.7,
+        trailerYoutubeId: "5SKP1_F7ReE",
+    },
+    {
+        id: 10,
+        name: "The Crown",
+        image: "/crown.jpg",
+        rating: 8.6,
+        trailerYoutubeId: "JWtnJjn6ng0",
+    },
+    {
+        id: 11,
+        name: "Game of Thrones",
+        image: "/got.jpg",
+        rating: 9.2,
+        trailerYoutubeId: "KPLWWIOCOOQ",
+    },
+    {
+        id: 12,
+        name: "The Mandalorian",
+        image: "/mandalorian.jpg",
+        rating: 8.7,
+        trailerYoutubeId: "aOC8E8z_ifw",
+    },
+];
